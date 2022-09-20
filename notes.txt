@@ -1,0 +1,5 @@
+git init__to initialize a new git project with
+
+
+
+git add . -to ad all folders in our project to git local git repo
